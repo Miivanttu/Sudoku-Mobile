@@ -1,0 +1,4 @@
+#Sun Apr 23 19:06:04 EEST 2023
+base.0=C\:\\Users\\Throthar\\Desktop\\TalTech\\Tarkvara\\sudoku\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
